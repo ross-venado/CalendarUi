@@ -1,5 +1,6 @@
 
-# Calendar APP
+# CalendarUi
+Grupo 5
 
 
 
@@ -12,3 +13,22 @@
 VITE_API_URL=http://localhost:4000/api
 
 ```
+
+#Puntos
+---
+
+* Estructura y diseño de nuestra aplicación de Calendario
+
+* Uso de componentes de terceros
+
+* Modals
+
+* Configuración de Redux
+
+* CRUD local
+
+* Preparación de pantallas para futuras secciones
+
+* Uso de MomentJS
+
+* Manejo de fechas
