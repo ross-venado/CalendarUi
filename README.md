@@ -27,8 +27,6 @@ VITE_API_URL=http://localhost:4000/api
 
 * CRUD local
 
-* Preparación de pantallas para futuras secciones
-
 * Uso de MomentJS
 
 * Manejo de fechas
